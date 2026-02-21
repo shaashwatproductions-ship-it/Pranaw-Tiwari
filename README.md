@@ -1,18 +1,20 @@
 # 🎬 Pranaw Tiwari | Creative Head & Screenwriter
 
+# 🎬 Pranaw Tiwari | Creative Head @ KKS
+
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Creative%20Head-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Expertise-Screenwriting-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Company-KKS-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Industry-Bollywood%20%26%20OTT-gold?style=for-the-badge" />
 </p>
 
 ---
 
 ### 👨‍💼 About Me
-I am a **Creative Head & Screenwriter** who bridges the gap between artistic storytelling and corporate operational excellence. Currently leading the creative vision at **K Kumar Studios**, I bring a unique blend of 7+ years of leadership experience.
+I am a **Creative Head & Screenwriter** currently leading the creative vision at **KKS**. I specialize in bridging the gap between artistic storytelling and corporate operational excellence, backed by 7+ years of leadership experience.
 
 - 📽️ **Currently:** Creative Head at **KKS**
-- ✍️ **Specialization:** Screenplay, Dialogues (Hindi, Awadhi, Bhojpuri), Content Strategy
+- ✍️ **Specialization:** Screenplay, Dialogues, Content Strategy
 - 🚀 **Industry Edge:** Associated with Veteran Writer **Dilip Shukla**
 
 ---
