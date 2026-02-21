@@ -1,7 +1,5 @@
 # 🎬 Pranaw Tiwari | Creative Head & Screenwriter
 
-# 🎬 Pranaw Tiwari | Creative Head @ KKS
-
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Creative%20Head-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Company-KKS-black?style=for-the-badge" />
