@@ -11,7 +11,7 @@
 ### 👨‍💼 About Me
 I am a **Creative Head & Screenwriter** who bridges the gap between artistic storytelling and corporate operational excellence. Currently leading the creative vision at **K Kumar Studios**, I bring a unique blend of 7+ years of leadership experience.
 
-- 📽️ **Currently:** Creative Head at **K Kumar Studios**
+- 📽️ **Currently:** Creative Head at **KKS**
 - ✍️ **Specialization:** Screenplay, Dialogues (Hindi, Awadhi, Bhojpuri), Content Strategy
 - 🚀 **Industry Edge:** Associated with Veteran Writer **Dilip Shukla**
 
